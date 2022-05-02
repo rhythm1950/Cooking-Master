@@ -1,1 +1,1 @@
-# Glamworld-Software-Inc
+# Glamworld Software Inc
