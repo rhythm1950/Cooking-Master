@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&display=swap');
+
+body {
+    background-color: rgb(204, 175, 80);
+    font-family: 'Poppins', sans-serif;
+}
+
+.meal-img {
+    width: 55%;
+    margin-bottom: 20px;
+}
+
+.inner-div {
+    box-shadow: 10px 10px 40px rgb(95, 85, 26);
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+}
+
+.inner-div-2 {
+    background-color: rgb(255, 255, 255);
+    padding: 6%;
+}
+
+.inner-div-3 img {
+    width: 100%;
+}
+
+.ingredients-list {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.outer-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+}
